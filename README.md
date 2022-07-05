@@ -48,6 +48,14 @@ Objetos podem ser substituídos por seus subtipos sem que isso afete a execuçã
 A ideia é que abstrações não devem depender de implementações. A abstração deve ser totalmente abstrata. Ela não depende de nenhuma implementação específica. A implementação sim é que deveria depender de uma abstração.
 
 ---
+## Links de apoio:
+- [O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
+- [Coesão, encapsulamento e acoplamento os pilares da orientação a objetos.](https://medium.com/@functionoliveira/coes%C3%A3o-encapsulamento-e-acoplamento-os-pilares-da-orienta%C3%A7%C3%A3o-a-objetos-514f2014426)
+- [POO: tudo sobre Programação Orientada a Objetos!](https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/)
+- [SOLID: guia completo sobre os 5 princípios da POO!](https://blog.betrybe.com/linguagem-de-programacao/solid-cinco-principios-poo/)
+- [Guia Básico sobre Princípios de Programação e SOLID](https://dev.to/guilhermemanzano/guia-basico-sobre-principios-de-projetos-e-solid-4m59)
+- 
+
 
 Este projeto encontra-se em desenvolvimento e está aberto para pull request.
 
