@@ -54,8 +54,8 @@ A ideia é que abstrações não devem depender de implementações. A abstraç�
 - [POO: tudo sobre Programação Orientada a Objetos!](https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/)
 - [SOLID: guia completo sobre os 5 princípios da POO!](https://blog.betrybe.com/linguagem-de-programacao/solid-cinco-principios-poo/)
 - [Guia Básico sobre Princípios de Programação e SOLID](https://dev.to/guilhermemanzano/guia-basico-sobre-principios-de-projetos-e-solid-4m59)
-- 
 
+---
 
 Este projeto encontra-se em desenvolvimento e está aberto para pull request.
 
